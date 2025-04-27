@@ -1,0 +1,34 @@
+Type,Name,Date,Location,Angle,Max Wind Speed (km/h),Remark,Max Wind Speed
+Actual,Komen_actual,30 07 2015,Noakhali,,,Actual Track,63.0
+Actual,Cyclone 1991_actual,30 04 1991,Chittagong,,,Actual Track,204.0
+Actual,Mocha_actual,14 05 2023,Cox's Bazar,,,Actual Track,173.0
+Actual,Aila_actual,25 05 2009,West Bengal,,,Actual Track,111.0
+Actual,Amphan_actual,20 05 2020,West Bengal,,,Actual Track,159.0
+Actual,Bulbul_actual,09 11 2019,West Bengal,,,Actual Track,111.0
+Actual,Mora_actual,03 05 2017,Chittagong,,,Actual Track,111.0
+Actual,Roanu_actual,21 05 2016,Chittagong,,,Actual Track,83.4
+Actual,Mohasen_actual,16 05 2013,Char Kukri Mukri,,,Actual Track,83.2
+Actual,Bijli_Actual,17 04 2009,Cox's Bazar Coast,,,Actual,90.0
+Actual,Rashmi_Actual,27 10 2008,Barishal Coast,,,Actual,82.8
+Actual,Akash-Actual,15 05 2007,Cox's Bazar,,,Actual Track,83.27
+Actual,Hamoon-Actual,25 10 2023,Kutubdia Island,,,Actual Track,83.27
+Actual,Midhili-Actual,17 11 2023,Khepupara,,,Actual Track,67.72
+Actual,SIDR_Actual,20 11 2007,Patuakhali,,,Actual Track,190.8
+Actual,Sitrang_Actual,28 10 2022,Barisal,,,Actual Track,79.2
+Actual,YAAS_Actual,31 05 2021,Baleshwar,,,Actual Track,140.4
+Actual,ECMWF10_actual,25 05 2024,Odissa,,,Actual Track,107.0
+Actual,ECMWF11_actual,25 05 2024,Odisha,,,Actual Track,108.0
+Actual,ECMWF15_actual,25 05 2024,Odisha,,,Actual Track,103.6
+Actual,GFS19_actual,26 05 2024,Odisha,,,Actual Track,160.0
+Actual,GFS23_actual,26 05 2024,"Manpura, Bhola",,,Actual Track,83.3
+Actual,ECMWF18_actual,26 05 2024,"Digha, Odisha",,,Actual Track,107.0
+Actual,GFS25_actual,26 05 2024,Hatiya,,,Actual Track,94.5
+Actual,GFS27_actual,25 05 2024,Myanmar,,,Actual Track,108.2
+Actual,ECMWF22_actual,26 05 2024,"Fatrar Char, Patuakhali",,,Actual Track,96.0
+Actual,ECMWF26_actual,26 05 2024,"Rangabali, Patuakhali",,,Actual Track,101.0
+Actual,ECMWF30_actual,26 05 2024,Bhola,,,Actual Track,82.0
+Actual,GFS39_actual,27 05 2024,West Bengal,,,Actual Track,148.0
+Actual,ECMWF42_actual,26 05 2024,"South 24 Pargana, West Bengal",,,Actual Track,128.0
+Actual,IMD 02_actual,26 05 2024,"Shapna Char, Khulna District",,,Actual Track,130.0
+Actual,IMD07_actual,26 05 2024,Khulna,,,Actual Track,116.0
+Actual,IMD08_actual,27 05 2024,"Shapna Char, Khulna District",,,Actual Track,120.0
